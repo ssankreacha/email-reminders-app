@@ -6,8 +6,8 @@ from email.mime.multipart import MIMEMultipart
 
 # Constants (Replace with your actual credentials)
 """ 
-- Check if your email provider requires these changes.
-- Modify the script with the correct settings and App Password."""
+- Your email provider may requires some changes.
+- Modify the script with the correct settings and App Passwords relative to the email provider."""
 
 EMAIL_ADDRESS = " "  # Your email
 EMAIL_PASSWORD = " "  # App password (not regular password)
